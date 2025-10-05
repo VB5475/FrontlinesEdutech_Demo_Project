@@ -106,12 +106,6 @@ npm install
 npm run dev
 ```
 
-## 🌐 Access Points
-
-- **Frontend Application**: http://localhost:3000
-- **JSON Server API**: http://localhost:3001
-- **API Endpoints**: http://localhost:3001/companies
-
 ## 📊 Data Structure
 
 Each company record includes:

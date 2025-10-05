@@ -1,0 +1,125 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "TechCorp Solutions",
+      "location": "San Francisco, CA",
+      "industry": "Technology",
+      "employees": "500-1000",
+      "revenue": "$50M - $100M",
+      "website": "techcorp.com",
+      "founded": "2015",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Green Energy Ltd",
+      "location": "Austin, TX",
+      "industry": "Energy",
+      "employees": "100-500",
+      "revenue": "$10M - $50M",
+      "website": "greenenergy.com",
+      "founded": "2018",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "MediCare Innovations",
+      "location": "Boston, MA",
+      "industry": "Healthcare",
+      "employees": "1000+",
+      "revenue": "$100M+",
+      "website": "medicare-innov.com",
+      "founded": "2012",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "name": "FinanceFirst",
+      "location": "New York, NY",
+      "industry": "Finance",
+      "employees": "500-1000",
+      "revenue": "$50M - $100M",
+      "website": "financefirst.com",
+      "founded": "2010",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "RetailMax",
+      "location": "Chicago, IL",
+      "industry": "Retail",
+      "employees": "100-500",
+      "revenue": "$10M - $50M",
+      "website": "retailmax.com",
+      "founded": "2016",
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "name": "EduTech Systems",
+      "location": "Seattle, WA",
+      "industry": "Education",
+      "employees": "100-500",
+      "revenue": "$10M - $50M",
+      "website": "edutech.com",
+      "founded": "2019",
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "AutoDrive Technologies",
+      "location": "Detroit, MI",
+      "industry": "Automotive",
+      "employees": "500-1000",
+      "revenue": "$50M - $100M",
+      "website": "autodrive.tech",
+      "founded": "2017",
+      "status": "Active"
+    },
+    {
+      "id": 8,
+      "name": "FoodChain Logistics",
+      "location": "Miami, FL",
+      "industry": "Logistics",
+      "employees": "100-500",
+      "revenue": "$10M - $50M",
+      "website": "foodchain.com",
+      "founded": "2014",
+      "status": "Active"
+    },
+    {
+      "id": 9,
+      "name": "CloudScale Inc",
+      "location": "San Francisco, CA",
+      "industry": "Technology",
+      "employees": "1000+",
+      "revenue": "$100M+",
+      "website": "cloudscale.com",
+      "founded": "2011",
+      "status": "Active"
+    },
+    {
+      "id": 10,
+      "name": "BioMed Research",
+      "location": "San Diego, CA",
+      "industry": "Healthcare",
+      "employees": "100-500",
+      "revenue": "$10M - $50M",
+      "website": "biomed-research.com",
+      "founded": "2013",
+      "status": "Active"
+    },
+    {
+      "id": "4110",
+      "name": "binr",
+      "location": "amd",
+      "industry": "Healthcare",
+      "employees": "1-10",
+      "revenue": "<$1M",
+      "website": "https://abc.com",
+      "founded": "2015",
+      "status": "Active"
+    }
+  ]
+}
